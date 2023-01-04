@@ -1,5 +1,6 @@
+# Introduction
 - 👋 Hi, I’m @ContDJ
-- 👀 I’m interested in working with mincraft plugins
+- 👀 I’m interested in working with minecraft plugins
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: You don't, I am not resourceful yet to be of any use, but thanks for reading this :)
 
