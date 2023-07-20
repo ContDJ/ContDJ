@@ -1,7 +1,7 @@
 # Introduction
 - 👋 Hi, I’m @ContDJ
 - 👀 I’m interested in working with minecraft plugins
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java (Working on Python because am held at gunpoint)
 - 📫 How to reach me: You don't, I am not resourceful yet to be of any use, but thanks for reading this :)
 
 <!---
